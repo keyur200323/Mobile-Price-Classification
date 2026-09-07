@@ -34,6 +34,7 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
    source venv/bin/activate
 
 3. **Install Dependencies:**
+   ```Bash:
    pip install -r requirements.txt
 
 
