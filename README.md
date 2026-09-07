@@ -37,7 +37,6 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
    ```Bash:
    pip install -r requirements.txt
 
-
 🚀 How to Run the Application
 - **To launch the interactive PyQt5 GUI directly:**
 - **python mobile_price_gui.py**
