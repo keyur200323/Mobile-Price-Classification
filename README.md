@@ -42,8 +42,9 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
 - **To launch the interactive PyQt5 GUI directly:**
 - **python mobile_price_gui.py**
 
-Running Pipeline Steps Individually:
-```python step1_explore.py
+🔥Running Pipeline Steps Individually:
+```Bash:
+python step1_explore.py
 python step2_cleaning.py
 python step3_wrangling.py
 python step4_augmentation.py
@@ -54,6 +55,6 @@ python step8_tuning.py
 python step9_evaluation.py
 
 📊 Models & Performance
-Algorithm 1: Random Forest Classifier
-Algorithm 2: Support Vector Machine (SVM)
+- **Algorithm 1: Random Forest Classifier**
+- **Algorithm 2: Support Vector Machine (SVM)**
 
