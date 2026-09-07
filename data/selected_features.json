@@ -1,0 +1,19 @@
+{
+  "selected_features": [
+    "ram",
+    "ram_category",
+    "ram_per_core",
+    "storage_ram_ratio",
+    "performance_score",
+    "battery_power",
+    "battery_wt_ratio",
+    "px_width",
+    "px_height",
+    "battery_category",
+    "pixel_density",
+    "screen_area",
+    "mobile_wt",
+    "n_cores"
+  ],
+  "top_k": 14
+}

@@ -1,0 +1,68 @@
+{
+  "selected_features": [
+    "ram",
+    "ram_category",
+    "ram_per_core",
+    "storage_ram_ratio",
+    "performance_score",
+    "battery_power",
+    "battery_wt_ratio",
+    "px_width",
+    "px_height",
+    "battery_category",
+    "pixel_density",
+    "screen_area",
+    "mobile_wt",
+    "n_cores"
+  ],
+  "rf_test_accuracy": 92.75,
+  "svm_test_accuracy": 98.75,
+  "rf_cv_accuracy": 90.5,
+  "svm_cv_accuracy": 97.5,
+  "rf_best_params": {
+    "n_estimators": 400,
+    "min_samples_split": 8,
+    "min_samples_leaf": 2,
+    "max_features": null,
+    "max_depth": 20,
+    "criterion": "entropy",
+    "bootstrap": 1
+  },
+  "svm_best_params": {
+    "C": 100,
+    "degree": 2,
+    "gamma": "scale",
+    "kernel": "linear"
+  },
+  "rf_metrics": {
+    "Accuracy": 0.9275,
+    "Precision (Macro)": 0.9274,
+    "Precision (Weighted)": 0.9274,
+    "Recall (Macro)": 0.9275,
+    "Recall (Weighted)": 0.9275,
+    "F1-Score (Macro)": 0.9274,
+    "F1-Score (Weighted)": 0.9274,
+    "ROC-AUC (Macro OVR)": 0.9937,
+    "Cohen Kappa": 0.9033,
+    "Log Loss": 0.1999
+  },
+  "svm_metrics": {
+    "Accuracy": 0.9875,
+    "Precision (Macro)": 0.9876,
+    "Precision (Weighted)": 0.9876,
+    "Recall (Macro)": 0.9875,
+    "Recall (Weighted)": 0.9875,
+    "F1-Score (Macro)": 0.9875,
+    "F1-Score (Weighted)": 0.9875,
+    "ROC-AUC (Macro OVR)": 0.9996,
+    "Cohen Kappa": 0.9833,
+    "Log Loss": 0.0638
+  },
+  "winner": "SVM Classifier",
+  "price_labels": {
+    "0": "Low Cost",
+    "1": "Medium Cost",
+    "2": "High Cost",
+    "3": "Very High Cost"
+  }
+}

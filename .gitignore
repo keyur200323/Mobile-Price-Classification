@@ -1,0 +1,20 @@
+# Virtual Environment (DO NOT UPLOAD)
+venv/
+.venv/
+env/
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE & OS Settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large temporary data cache (Optional: keeping small pkl/csv files is fine)
+*.tmp
+
