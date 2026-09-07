@@ -42,15 +42,15 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
 - **python mobile_price_gui.py**
 
 Running Pipeline Steps Individually:
-```**python step1_explore.py**
-```**python step2_cleaning.py**
-```**python step3_wrangling.py**
-```**python step4_augmentation.py**
-```**python step5_visualization.py**
-```**python step6_feature_selection.py**
-```**python step7_model_training.py**
-```**python step8_tuning.py**
-```**python step9_evaluation.py**
+```python step1_explore.py
+python step2_cleaning.py
+python step3_wrangling.py
+python step4_augmentation.py
+python step5_visualization.py
+python step6_feature_selection.py
+python step7_model_training.py
+python step8_tuning.py
+python step9_evaluation.py
 
 📊 Models & Performance
 Algorithm 1: Random Forest Classifier
