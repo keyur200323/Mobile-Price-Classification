@@ -42,7 +42,7 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
 - **To launch the interactive PyQt5 GUI directly:**
 - **python mobile_price_gui.py**
 
-🔥Running Pipeline Steps Individually:
+**Running Pipeline Steps Individually:**
 ```Bash:
 python step1_explore.py
 python step2_cleaning.py
