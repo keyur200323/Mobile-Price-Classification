@@ -25,7 +25,7 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
    cd mobile-price-classification
 
 2. **Create and Activate a Virtual Environment:**
-   
+   ```Bash:
    Windows:
    python -m venv venv
    venv\Scripts\activate
