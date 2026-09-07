@@ -23,6 +23,7 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
    ```bash
    git clone https://github.com/YOUR-USERNAME/mobile-price-classification.git
    cd mobile-price-classification
+   ```
 
 2. **Create and Activate a Virtual Environment:**
    ```Bash:
@@ -33,26 +34,29 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
    macOS/Linux:
    python3 -m venv venv
    source venv/bin/activate
+   ```
 
 3. **Install Dependencies:**
    ```Bash:
    pip install -r requirements.txt
+   ```
 
 🚀 How to Run the Application
 - **To launch the interactive PyQt5 GUI directly:**
 - **python mobile_price_gui.py**
 
 **Running Pipeline Steps Individually:**
-```Bash:
-python step1_explore.py
-python step2_cleaning.py
-python step3_wrangling.py
-python step4_augmentation.py
-python step5_visualization.py
-python step6_feature_selection.py
-python step7_model_training.py
-python step8_tuning.py
-python step9_evaluation.py
+   ```Bash:
+   python step1_explore.py
+   python step2_cleaning.py
+   python step3_wrangling.py
+   python step4_augmentation.py
+   python step5_visualization.py
+   python step6_feature_selection.py
+   python step7_model_training.py
+   python step8_tuning.py
+   python step9_evaluation.py
+   ```
 
 📊 Models & Performance
 - **Algorithm 1: Random Forest Classifier**
