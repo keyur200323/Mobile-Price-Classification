@@ -26,7 +26,7 @@ A end-to-end Machine Learning application built using Python, PyQt5, Scikit-Lear
 
 2. **Create and Activate a Virtual Environment:**
    
-   ```Windows:
+   Windows:
    python -m venv venv
    venv\Scripts\activate
 
